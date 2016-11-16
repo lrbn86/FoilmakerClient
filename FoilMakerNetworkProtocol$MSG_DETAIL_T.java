@@ -1,0 +1,12 @@
+public enum FoilMakerNetworkProtocol$MSG_DETAIL_T
+{
+  SUCCESS,  INVALIDUSERNAME,  INVALIDUSERPASSWORD,  USERALREADYEXISTS,  UNKNOWNUSER,  USERALREADYLOGGEDIN,  GAMEKEYNOTFOUND,  NO_CONNECTION_TO_SERVER,  ERROR_OPENING_NETWORK_CONNECTION,  USERNOTLOGGEDIN,  USERNOTGAMELEADER,  INVALIDGAMETOKEN,  UNEXPECTEDMESSAGETYPE,  INVALIDMESSAGEFORMAT,  FAILURE;
+  
+  private FoilMakerNetworkProtocol$MSG_DETAIL_T() {}
+}
+
+
+/* Location:              /Users/brandonnguyen/Desktop/PurdueStuffs/CS18000/Foiler/Foilmaker.client.jar!/FoilMakerNetworkProtocol$MSG_DETAIL_T.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       0.7.1
+ */
